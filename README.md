@@ -2,8 +2,6 @@
 
 This project focuses on building a **predictive model** to identify which health factors most influence total cholesterol levels. The dataset includes variables such as **systolic and diastolic blood pressure**, **BMI**, **fasting glucose**, and **triglyceride levels**.
 
----
-
 ## 📁 File
 
 - `cholesterol-analysis.ipynb`  
@@ -14,13 +12,11 @@ This project focuses on building a **predictive model** to identify which health
   - Model Building
   - Model Evaluation
 
----
 
 ## 🎯 Objective
 
 To model and interpret the relationship between clinical health indicators and total cholesterol values, and to find which variables are the strongest predictors.
 
----
 
 ## 🛠️ Tools & Libraries
 
@@ -28,13 +24,11 @@ To model and interpret the relationship between clinical health indicators and t
 - Scikit-learn
 - Matplotlib / Seaborn
 
----
 
 ## 📌 Notes
 
 - The notebook is written in **Bahasa Indonesia**.
 - This project was completed as a part of a health data modeling exercise or coursework.
 
----
 
 📌 *This project is intended for learning purposes in statistical modeling and health data analysis.*
